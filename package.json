@@ -7,13 +7,14 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
   },
+  "repository": "https://github.com/mingcaocao/guest_signatures",
   "keywords": [
     "React",
     "Node.js",
     "Signatures"
   ],
   "author": "Ming Cao",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "body-parser": "^1.18.2",
     "create-react-app": "^1.5.2",
